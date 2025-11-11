@@ -11,4 +11,4 @@ It's a remake of an old website that we used to start our first ever repo for th
 [https://www.ozarktechwebdev.com/kody/](https://ozarktechwebdev.com/kody/fitforfitness/)
 
 ### Screenshot
-![Screenshot of Live Bait Shop](screenshot.png)
+![Screenshot of Fit for Fitness](screenshot.png)
