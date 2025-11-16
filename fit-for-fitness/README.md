@@ -11,4 +11,4 @@ A redesigned of our oldest assignment yet! This includes video game and cartoon 
 [https://ozarktechwebdev.com/kody/](https://ozarktechwebdev.com/kody/fitforfitness/fit-for-fitness/)
 
 ### Screenshot
-![Screenshot of Fit for Fitness](Screenshot.png)
+![Screenshot of Fit for Fitness](screenshot.png)
